@@ -31,7 +31,7 @@
  📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudnamish&show_icons=true&locale=en&layout=compact" alt="mahmoudnamish" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudnamish&show_icons=true&locale=en" alt="mahmoudnamish" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudnamish&" alt="mahmoudnamish" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudnamish&" alt="mahmoudnamish" /></p>
 
 
 
