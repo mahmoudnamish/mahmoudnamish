@@ -32,14 +32,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudnamish&show_icons=true&locale=en&layout=compact" alt="mahmoudnamish" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahmoudnamish&show_icons=true&locale=en" alt="mahmoudnamish" /></p>
 
-
-
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudnamish&" alt="mahmoudnamish" /></p>
 
-
-## 🏆 GitHub Profile Trophies
-<p align="left">
+🏆 GitHub Profile Trophies
+<p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
 
 
