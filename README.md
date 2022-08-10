@@ -45,5 +45,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudnamish&show_icons=true&locale=en" alt="mahmoudnamish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudnamish&" alt="mahmoudnamish" /></p>
-![image](https://user-images.githubusercontent.com/100808044/184016956-41219297-2488-4556-b961-bef4d9e9aa8c.png)
 
