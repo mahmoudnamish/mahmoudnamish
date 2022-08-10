@@ -29,9 +29,9 @@
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
  📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudnamish&show_icons=true&locale=en&layout=compact" alt="mahmoudnamish" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudnamish&show_icons=true&locale=en&layout=compact" alt="mahmoudnamish" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudnamish&show_icons=true&locale=en" alt="mahmoudnamish" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudnamish&" alt="mahmoudnamish" /></p>
+
 
 
 
