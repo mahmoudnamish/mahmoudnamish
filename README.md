@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Essam Nameish ⭐</h1>
+<h2 align="center">Hi 👋, I'm Mahmoud Essam Nameish ⭐</h2>
 <h3 align="center">Flutter Developer 💎</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+🙄" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmoudnamish&label=Profile%20views&color=004080&style=flat" alt="mahmoudnamish" height="30" width="180" />
@@ -10,7 +10,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudnamish&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudnamish" /> </p>
 
 - 🕗 [To Do App](https://github.com/mahmoudnamish/TODO_sqflit_algoriza)
-
 - 🏩 [Shop App](https://github.com/mahmoudnamish/shop_app)
 - 🌍 [News App](https://github.com/mahmoudnamish/news_app)
 - 🟧 [ODC Orange_App](https://github.com/mahmoudnamish/ODC_Hackathon)
